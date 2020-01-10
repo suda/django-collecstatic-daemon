@@ -1,5 +1,5 @@
 """
-WSGI config for django_collecstatic_daemon project.
+WSGI config for django_collectstatic_daemon project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

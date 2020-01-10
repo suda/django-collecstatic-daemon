@@ -1,4 +1,4 @@
-"""django_collecstatic_daemon URL Configuration
+"""django_collectstatic_daemon URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/2.2/topics/http/urls/
